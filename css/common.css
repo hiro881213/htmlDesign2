@@ -7,6 +7,18 @@
     box-sizing: border-box;
 }
 
+BODY {
+    font-family: sans-serif;
+    font-size: 16px;
+    color: #000;
+    line-height: 1;
+    background-color: #FFF;
+}
+
+IMG {
+    max-width: 100%;
+}
+
 UL,
 OL {
     list-style: none;
