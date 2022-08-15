@@ -4,4 +4,15 @@
 ::after {
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
+}
+
+UL,
+OL {
+    list-style: none;
+}
+
+A {
+    color: inherit;
+    text-decoration: none;
 }
