@@ -71,6 +71,11 @@ IMG {
     margin-right: 20px;
 }
 
+.site-menu UL LI A {
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
 
 /** フッターエリア */
 
