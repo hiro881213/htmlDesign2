@@ -23,6 +23,11 @@ A {
     text-decoration: none;
 }
 
+UL,
+OL {
+    list-style: none;
+}
+
 
 /** 画像 */
 
@@ -45,6 +50,11 @@ IMG {
     align-items: center;
 }
 
+.header-logo {
+    display: block;
+    width: 170px;
+}
+
 .toggle-menu-button {
     display: none;
 }
@@ -52,7 +62,11 @@ IMG {
 
 /** ナビゲーションエリア */
 
-UL,
-OL {
-    list-style: none;
+.site-menu UL {
+    display: flex;
+}
+
+.site-menu UL LI {
+    margin-left: 20px;
+    margin-right: 20px;
 }
