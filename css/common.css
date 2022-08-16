@@ -141,6 +141,10 @@ IMG {
         background-color: #736E62;
         padding-top: 30px;
         padding-bottom: 50px;
+        display: none;
+    }
+    .header-site-menu.is-show {
+        display: block;
     }
     .toggle-menu-button {
         display: block;
