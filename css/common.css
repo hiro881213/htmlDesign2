@@ -127,9 +127,25 @@ IMG {
         padding-left: 20px;
         padding-right: 20px;
         height: 100%;
+        position: relative;
     }
     .header-logo {
         width: 100px;
+    }
+    .header-site-menu {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        color: #FFF;
+        background-color: #736E62;
+        padding-top: 30px;
+        padding-bottom: 50px;
+    }
+    .toggle-menu-button {
+        display: block;
+        width: 44px;
+        height: 34px;
     }
     .site-menu UL {
         display: block;
