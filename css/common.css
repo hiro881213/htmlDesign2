@@ -166,4 +166,16 @@ IMG {
     .site-menu LI {
         margin-top: 20px;
     }
+    .main {
+        padding-top: 50px;
+    }
+    .footer-logo {
+        margin-top: 60px;
+    }
+    .footer-tel {
+        font-size: 20px;
+    }
+    .copyright {
+        margin-top: 50px;
+    }
 }
