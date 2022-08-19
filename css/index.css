@@ -31,3 +31,13 @@
     font-size: 18px;
     margin-top: 20px;
 }
+
+.lead {
+    max-width: 1200px;
+    margin: 60px auto;
+}
+
+.lead p {
+    line-height: 2;
+    text-align: center;
+}
