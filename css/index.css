@@ -41,3 +41,22 @@
     line-height: 2;
     text-align: center;
 }
+
+.link-button-area {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.link-button {
+    background-color: #F4DD64;
+    display: inline-block;
+    min-width: 180px;
+    line-height: 48px;
+    border-radius: 24px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+
+.link-button:hover {
+    background-color: #D8B500;
+}
