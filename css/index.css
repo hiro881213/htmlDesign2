@@ -87,3 +87,9 @@
         text-align: left;
     }
 }
+
+.recommended {
+    background-color: #F8F8F8;
+    padding-top: 45px;
+    padding-bottom: 55px;
+}
