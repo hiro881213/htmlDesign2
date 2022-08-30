@@ -43,3 +43,12 @@
     max-width: 500px;
     margin-right: 40px;
 }
+
+.reverse {
+    flex-direction: row-reverse;
+}
+
+.reverse .feature-text {
+    margin-left: 40px;
+    margin-right: 0;
+}
