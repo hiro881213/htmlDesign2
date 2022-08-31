@@ -135,4 +135,11 @@
         height: auto;
         margin-top: 25px;
     }
+    .movie {
+        width: 500px;
+        padding: 30px 25px;
+    }
+    .movie iframe {
+        height: 240px;
+    }
 }
