@@ -36,3 +36,22 @@
     row-gap: 70px;
     justify-content: center;
 }
+
+.item-list dl {
+    margin-top: 20px;
+}
+
+.item-list dt {
+    font-weight: bold;
+}
+
+.item-list dd {
+    font-size: 13px;
+    line-height: 20px;
+    margin-top: 10px;
+}
+
+.item-list .price {
+    font-weight: bold;
+    margin-top: 15px;
+}
