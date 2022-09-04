@@ -30,4 +30,9 @@
     margin-top: 75px;
     margin-left: auto;
     margin-right: auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 240px);
+    column-gap: 95px;
+    row-gap: 70px;
+    justify-content: center;
 }
