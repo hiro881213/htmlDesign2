@@ -16,3 +16,14 @@
     font-size: 14px;
     margin-top: 15px;
 }
+
+.shop-contents {
+    width: 1080px;
+    max-width: 90%;
+    margin-top: 75px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
