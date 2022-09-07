@@ -55,3 +55,26 @@
     column-gap: 50px;
     row-gap: 40px;
 }
+
+.item-list a {
+    display: block;
+}
+
+.item-list a:hover {
+    transform: scale(1.05);
+    transition-duration: 0.2s;
+}
+
+.item-list dl {
+    margin-top: 20px;
+}
+
+.item-list dt {
+    font-weight: bold;
+}
+
+.item-list dd {
+    font-size: 13px;
+    line-height: 20px;
+    margin-top: 10px;
+}
