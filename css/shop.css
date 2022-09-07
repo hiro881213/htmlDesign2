@@ -147,3 +147,11 @@
 .about-item a:hover {
     background-color: #D8B500;
 }
+
+.recommended {
+    margin-top: 60px;
+}
+
+.footer {
+    margin-top: 100px;
+}
