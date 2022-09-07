@@ -78,3 +78,32 @@
     line-height: 20px;
     margin-top: 10px;
 }
+
+.shop-menu {
+    flex-shrink: 0;
+    margin-right: 60px;
+    position: relative;
+}
+
+.shop-menu-inner {
+    position: sticky;
+    top: 30px;
+    left: 0;
+    right: 0;
+}
+
+.shop-menu-inner h2 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.shop-menu-inner ul {
+    list-style: disc;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.shop-menu-inner li {
+    font-size: 14px;
+    margin-top: 15px;
+}
