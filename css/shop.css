@@ -155,3 +155,11 @@
 .footer {
     margin-top: 100px;
 }
+
+@media (max-width: 800px) {
+    .shop-contents {
+        display: block;
+        max-width: 100%;
+        margin-top: 60px;
+    }
+}
