@@ -173,4 +173,18 @@
         grid-template-columns: repeat(2, 1fr);
         column-gap: 35px;
     }
+    .shop-menu {
+        background-color: #F8F8F8;
+        padding-top: 50px;
+        padding-bottom: 50px;
+        margin-top: 60px;
+        margin-right: 0;
+    }
+    .shop-menu-inner {
+        max-width: 540px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
 }
