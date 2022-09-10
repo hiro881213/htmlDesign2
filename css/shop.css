@@ -162,4 +162,15 @@
         max-width: 100%;
         margin-top: 60px;
     }
+    .shop-item {
+        max-width: 540px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .item-list {
+        grid-template-columns: repeat(2, 1fr);
+        column-gap: 35px;
+    }
 }
