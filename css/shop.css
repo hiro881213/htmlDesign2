@@ -201,4 +201,7 @@
     .about-item a {
         width: 100%;
     }
+    .footer {
+        margin-top: 0;
+    }
 }
