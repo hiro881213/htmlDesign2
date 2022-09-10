@@ -187,4 +187,18 @@
         padding-left: 20px;
         padding-right: 20px;
     }
+    .item-area {
+        display: block;
+    }
+    .item-area img {
+        width: 100%;
+        max-width: 100%;
+    }
+    .about-item {
+        margin-top: 20px;
+        margin-left: 0;
+    }
+    .about-item a {
+        width: 100%;
+    }
 }
