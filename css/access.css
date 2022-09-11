@@ -151,3 +151,11 @@
 .footer {
     margin-top: 100px;
 }
+
+@media(max-width: 800px) {
+    .map,
+    .contact {
+        width: 500px;
+        margin-top: 45px;
+    }
+}
