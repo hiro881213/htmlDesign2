@@ -73,6 +73,17 @@
 
 .form-area dt {
     width: 200px;
+    padding: 15px 0;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 24px;
+}
+
+.form-area dt .required::after {
+    content: '必須';
+    font-size: 11px;
+    color: #EB4F32;
+    margin-left: 10px;
 }
 
 .form-area dd {
