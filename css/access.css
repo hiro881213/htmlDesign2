@@ -53,3 +53,28 @@
     height: 320px;
     margin-top: 25px;
 }
+
+.contact {
+    width: 930px;
+    max-width: 90%;
+    margin-top: 75px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-area {
+    background-color: #F8F8F8;
+    border: 1px solid #AAA;
+    margin-top: 25px;
+    padding: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.form-area dt {
+    width: 200px;
+}
+
+.form-area dd {
+    width: calc(100% - 200px);
+}
