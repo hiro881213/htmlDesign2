@@ -147,3 +147,7 @@
 .submit-button:hover {
     background-color: #d8b500;
 }
+
+.footer {
+    margin-top: 100px;
+}
